@@ -1,0 +1,23 @@
+{
+  "name": "web-test-pages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnoliver/web-test-pages.git"
+  },
+  "author": "Nicolas Oliver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnoliver/web-test-pages/issues"
+  },
+  "homepage": "https://github.com/dnoliver/web-test-pages#readme",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
